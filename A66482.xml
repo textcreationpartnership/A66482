@@ -1,0 +1,408 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Julian and Gregorian year, or, The difference betwixt the old and new-stile shewing, that the reformed churches should not alter their old-stile, but that the Romanists should return to it.</title>
+            <author>Willes, John, 1646 or 7-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66482</idno>
+            <idno type="STC">Wing W2808</idno>
+            <idno type="STC">ESTC R8290</idno>
+            <idno type="EEBO-CITATION">12529602</idno>
+            <idno type="OCLC">ocm 12529602</idno>
+            <idno type="VID">62746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62746)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 952:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Julian and Gregorian year, or, The difference betwixt the old and new-stile shewing, that the reformed churches should not alter their old-stile, but that the Romanists should return to it.</title>
+                  <author>Willes, John, 1646 or 7-1700.</author>
+               </titleStmt>
+               <extent>[4], 26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Sare ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to John Willis. cf. NUC pre-1956.</note>
+                  <note>Errata: p. [4]</note>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Calendar, Julian.</term>
+               <term>Calendar, Gregorian.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62746:1"/>
+            <pb facs="tcp:62746:1" rendition="simple:additions"/>
+            <p>THE <hi>Julian</hi> and <hi>Gregorian</hi> YEAR: Or, the Difference Betwixt the <hi>Old</hi> and <hi>New-Stile.</hi> SHEWING, That the <hi>Reformed Churches</hi> ſhould not Alter their <hi>Old-Stile,</hi> but That the <hi>Romanists</hi> ſhould Return to It.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <bibl>Conc. Nic. Can. 6.</bibl>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>RICHARD SARE,</hi> at <hi>Grays-Inn</hi> Gate, <hi>Holborne.</hi> 1700.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:62746:2"/>
+            <pb facs="tcp:62746:2"/>
+            <head>TO THE READER.</head>
+            <p>THÉ <hi>Old</hi> and <hi>New-Stile</hi> having been of late the Subject of many Debates, occaſion'd chiefly by the near approach of <hi>next February,</hi> when, inſtead of <hi>Ten,</hi> there will be <hi>Eleven Days</hi> difference be<g ref="char:EOLhyphen"/>twixt <hi>them,</hi> and thereby the <hi>Julian</hi> and <hi>Gregorian</hi> Ac<g ref="char:EOLhyphen"/>counts ſet at greater odds than ever; and finding this Con<g ref="char:EOLhyphen"/>troverſy not generally underſtood, I thought I could; not at preſent, do a more acceptable piece of Service to the Publick, than put this matter into as clear a Light as I could; and ſhew, with as much brevity as poſſible, not only the <g ref="char:V">Ʋ</g>nrea<g ref="char:EOLhyphen"/>ſonableneſs of the <hi>Romaniſts</hi> preſſing of the <hi>Reformed<g ref="char:punc">▪</g> Churches</hi> to comply with them in the <hi>Gregorian Account,</hi> but alſo endeavour to perſwade them to put an End to the Difference, by returning to the Obedience of the <hi>firſt Gene<g ref="char:EOLhyphen"/>ral Council</hi> at <hi>Nice,</hi> and an <hi>Union</hi> with the <hi>Univerſal Church.</hi> The <hi>Church</hi> of <hi>Rome,</hi> for above <hi>One Thou<g ref="char:EOLhyphen"/>ſand Years,</hi> were in this matter conformable to the <hi>reſt</hi> of the <hi>Chriſtian World,</hi> and the <hi>Popes,</hi> at their Inaugura<g ref="char:EOLhyphen"/>tion, were <hi>ſworn</hi> to continue it. <hi>Viz. Se quatuor pri<g ref="char:EOLhyphen"/>ma Concilia ſervaturos, uſque ad unum Apicem.</hi> i. e. <hi>That they would critically obſerve the firſt four Gene<g ref="char:EOLhyphen"/>ral Councils, to the leaſt tittle. Can. Sanct. Diſt. 16.</hi>
+               <pb facs="tcp:62746:3"/> and how the late <hi>Pope Gregory XIII.</hi> diſpenſed with him<g ref="char:EOLhyphen"/>ſelf in this matter, I know not; but I am ſure, that his famous Predeceſſor of that Name, <hi>Pope Gregory the Great</hi> declared his esteem of the <hi>Four firſt General Coun<g ref="char:EOLhyphen"/>cils,</hi> to be equall to that he had of the <hi>Four Goſpels.</hi> So that <hi>Popes</hi> are divided in their Judgments, as well as <hi>other Chriſtians,</hi> and whereas, but an Age or two paſt, the <hi>Roma<g ref="char:EOLhyphen"/>niſts</hi> preſs'd the <hi>Proteſtants</hi> with the Authority of <hi>Coun<g ref="char:EOLhyphen"/>cils,</hi> which they pretended to be on their ſide, they have now publickly rejected the Determination of the moſt famous <hi>Chriſtian Council</hi> in the World, ſince that of the Apoſtles; and the deſign of this Paper is to preſs them to the Obedience of it, and to return to the Communion of Saints, and no longer continue in a Schiſm, and Separation from all the <hi>Chriſtian Churches</hi> in the World.</p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge. 2. <hi>l. 27. add</hi> two p. 4. <hi>l. 27. add</hi> on, or p. 13. <hi>l.</hi> 1. for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> read <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> p. 20. <hi>l.</hi> 22. the <hi>and</hi> that tranſpros'd.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:62746:3"/>
+            <head>Of the <hi>Julian Year,</hi> the Time of the <hi>Jewiſh Paſſover,</hi> and the Decrees of the <hi>Chriſtian Church</hi> for find<g ref="char:EOLhyphen"/>ing of <hi>EASTER.</hi>
+            </head>
+            <p>WHEN <hi>J. Caeſar</hi> had Conquered <hi>Egypt,</hi> (where all ſorts of Learning, and eſpe<g ref="char:EOLhyphen"/>cially <hi>Aſtronomy,</hi> had long Flouriſh'd) he brought with him thence, a more Exact Account of a Solary <hi>Year,</hi> than any that had been before uſed among the <hi>Romans;</hi> and, though this <hi>New Ca<g ref="char:EOLhyphen"/>lendar</hi> was drawn up by <hi>Soſigenes,</hi> and other great <hi>Aſtronomers;</hi> yet being Publiſh'd by <hi>Julius Caeſar's</hi> Authority, was call'd the <hi>Julian Year.</hi> But, the <hi>Ro<g ref="char:EOLhyphen"/>miſh Prieſts</hi> having been long uſed to another ſort of Year, miſtook the Rules, and, inſtead of every Fourth, they reckon'd Incluſively, and Intercalat<g ref="char:EOLhyphen"/>ed a Day every Third Year; which, being obſerv<g ref="char:EOLhyphen"/>ed by <hi>Auguſtus,</hi> and Reſtor'd to what <hi>Julius</hi> had at firſt Eſtabliſh'd, was ſtill call'd the <hi>Julian Year,</hi> and made Authentick in all the <hi>Roman Empire.</hi>
+            </p>
+            <p>THE <hi>Julian Year</hi> conſiſted of 365 <hi>Dayes</hi> and 6 <hi>Hours;</hi> but becauſe of the Inconvenience of Inſert<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:62746:4"/> of Six Hours, at the end of every Year, they were order'd to be reſerv'd to the end of 4 <hi>Years,</hi> when they came to a Whole Day, and then to be Inſerted at the <hi>24th</hi> Day of <hi>February.</hi> For the Old <hi>Roman</hi> Year ended at <hi>Feb.</hi> 23, on which was obſer<g ref="char:EOLhyphen"/>ved the Feaſt of <hi>Terminus,</hi> and the Old <hi>Intercalary Month</hi> was always inſerted at that time. And be<g ref="char:EOLhyphen"/>cauſe the <hi>Intercalary-dayes</hi> (according to the Method of the <hi>Egyptians</hi>) were never accounted any part of Month, or Year, but only an <hi>Appendix</hi> to them, and <hi>Cato in Tit. Dig. ſſ.</hi> 98. expreſly ſaith of the Practice of the <hi>Romans, Menſem intercalarem additicium eſſe, omneſque ejus dies pro momento temporis obſervandos,</hi> i. e. <hi>That the Intercalary Month was no part of the Year, and though it conſiſted of 28 days, was eſteemed but one mo<g ref="char:EOLhyphen"/>ment of Time;</hi> Therefore the <hi>Romans,</hi> in the <hi>Julian</hi> Year, accounted the <hi>24th</hi> day of <hi>February,</hi> that is, the <hi>6th</hi> of the <hi>Calends</hi> of <hi>March,</hi> two days together; which is the reaſon that in our <hi>Calendar, Leap-year</hi> is call'd <hi>Biſſextile,</hi> or the Year, in which the <hi>6th</hi> of the <hi>Calends</hi> of <hi>March</hi> came twice over, or was continued for Two days together: We in <hi>England,</hi> having been very antiently Subjects of the <hi>Roman</hi> Empire, receiv<g ref="char:EOLhyphen"/>ed the <hi>Julian</hi> Account; and, purſuant to the Me<g ref="char:EOLhyphen"/>thod of the <hi>Romans,</hi> our <hi>Parliament,</hi> in the <hi>21ſt</hi> Year of <hi>Henry</hi> the <hi>3d,</hi> paſs'd an <hi>Act,</hi> That in every <hi>Leap<g ref="char:EOLhyphen"/>year,</hi> thoſe dayes at the <hi>24th</hi> of <hi>February,</hi> ſhould be accounted but for one. Now, becauſe in the <hi>Weſtern Church,</hi> the <hi>Feaſt of Matthias</hi> hath been very Antient<g ref="char:EOLhyphen"/>ly kept on the <hi>24th day of February,</hi> and there might a doubt ariſe, about the true Day of this Feaſt in
+<pb n="3" facs="tcp:62746:4"/> 
+               <hi>Leap-Year;</hi> the Rule that had been obſerved in that Matter, was, to keep it on the Second of thoſe Two Days in <hi>Leap-Year,</hi> according to the Old Verſe<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <hi>Poſteriore die Feſtum Celebrato</hi> Mathiae.</p>
+            <p>AND on the Second Day we alſo kept it in <hi>England,</hi> till a few years ſince it was altered by an Injunction of a Late <hi>Arch-Biſhop,</hi> who thought it not ſo Agree<g ref="char:EOLhyphen"/>able to the laſt <hi>Act of <g ref="char:V">Ʋ</g>niformity.</hi>
+            </p>
+            <p>
+               <hi>J<g ref="char:V">Ʋ</g>LI<g ref="char:V">Ʋ</g>S CAESAR,</hi> in his <hi>Calendar,</hi> placed the <hi>Vernal Equinox</hi> on the <hi>25th</hi> day of <hi>March;</hi> and pre<g ref="char:EOLhyphen"/>ſuming, that his meaſure of a <hi>Solary Year</hi> was exact<g ref="char:EOLhyphen"/>ly true, he had no foreſight of the <hi>Preceſſion of the E<g ref="char:EOLhyphen"/>quinoxes</hi> in the <hi>Julian</hi> Months, and gave no other Di<g ref="char:EOLhyphen"/>rection, but that the ſaid <hi>Equinox</hi> ſhould be conti<g ref="char:EOLhyphen"/>nued on the <hi>25th</hi> Day of <hi>March</hi> for ever.</p>
+            <p>THE <hi>Jewiſh Paſſover</hi> was, by the Law of <hi>Moſes,</hi> to be kept on the <hi>14th</hi> Day of the Firſt Month, <hi>Exod. 12th.</hi> and <hi>Levit.</hi> 23, &amp;c. And on the <hi>16th</hi> day of the ſame Month, they were to offer up the Firſt-Fruits of their Corn, upon which account this Firſt Month was call'd <hi>Abib,</hi> that is, a Ripe Ear of Corn; and ſo their <hi>Paſſover</hi> was alwayes in that Month in which their Corn began to be Ripe. And becauſe their Corn in <hi>Canaan</hi> uſually began to be Ripe about the <hi>Vernal Equinox,</hi> as appears from <hi>Philo, Joſephus,</hi> and others; therefore, the <hi>Jewiſh Paſſover</hi> was at that time of the Year, and uſually anſwer'd to our <hi>March</hi> or <hi>April.</hi>
+            </p>
+            <pb n="4" facs="tcp:62746:5"/>
+            <p>THAT the <hi>Jews</hi> Antiently uſed <hi>Lunary Months,</hi> appears beyond Exception in this Law of the <hi>Paſſ<g ref="char:EOLhyphen"/>over,</hi> which being on the <hi>14th</hi> day of the <hi>Month,</hi> was always at the <hi>Full-Moon;</hi> and therefore the <hi>Jews,</hi> to make their <hi>Lunary Months</hi> Conformable to a <hi>Sola<g ref="char:EOLhyphen"/>ry</hi> Year, were forced, in every Two, or Three Years, to <hi>Intercalate</hi> a Month, and have 13 Months in their Year. And when that was to be done, they ſeem antiently to have had no other Rule, but when their Corn was Ripe; and though that might not be ſo certain a Guide, for the True Meaſure of a particular Year, yet, in Ten thouſand Years, would never err much, but was as fixed and certain as their Seaſons and Harveſts.</p>
+            <p>BUT, after the <hi>Jews</hi> had been Conquei'd by the <hi>Babylonians, Perſians</hi> and <hi>Greeks,</hi> and carry'd Cap<g ref="char:EOLhyphen"/>tives into all Nations, they ſaw the different Seaſons of Harveſts in the ſeveral Climates, and ſo in order to an Uniformity, were forced to eſtabliſh their Year up<g ref="char:EOLhyphen"/>on<g ref="char:punc">▪</g> 
+               <hi>Aſtronomical</hi> Rules, and Reduce it into <hi>Tables,</hi> that ſo the <hi>Jews,</hi> in their Diſperſon all the World over, might be <hi>
+                  <g ref="char:V">Ʋ</g>nited</hi> in their <hi>Feaſts,</hi> and keep their <hi>Paſſover</hi> (as they now do) at the ſame time.</p>
+            <p>ONE Principal thing agreed on, was, the Depen<g ref="char:EOLhyphen"/>dance of their Firſt Month upon the <hi>Vernal Equinox,</hi> or the <hi>Suns</hi> entrance into <hi>Aries,</hi> and particularly, that the <hi>15th</hi> Day of that Month ſhould be always after it; and When that was, the <hi>Jews,</hi> in the Time
+<pb n="5" facs="tcp:62746:5"/> of <hi>Our Saviour,</hi> ſeem to have taken from <hi>J. Caeſar</hi>'s <hi>Calendar.</hi> For that Emperour, and his Succeſſor, <hi>Auguſtus,</hi> were very kind to the <hi>Jews,</hi> indulged them the uſe of their own<g ref="char:punc">▪</g> Law; excuſed them from Tri<g ref="char:EOLhyphen"/>bute every Seventh Year<g ref="char:punc">▪</g> and ſent <hi>Sacrifices</hi> to <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> for the Daily Oblation: For which Reaſons, the <hi>Jews</hi> were extreamly Fond of them; and (as even <hi>Suetonius</hi> Relates) Lamented many Days and Nights together at the Funeral of the former. This was it that made them ſo readily comply with the <hi>New Calendar</hi> of <hi>Julius Caeſar,</hi> as far as their Law would give leave, and at leaſt take the time of the <hi>Vernal Equinox,</hi> and <hi>Suns</hi> entrance into <hi>Aries</hi> from thence; the firſt of which was there fix'd at <hi>March</hi> the <hi>25th,</hi> the other at the <hi>18th</hi> Day of the ſame Month. And whatever Rules of this nature were once agreed on by the <hi>Sanhedrim,</hi> or Chief Council at <hi>Jeruſalem,</hi> they took care to Communicate to the <hi>Jews</hi> all the World over.</p>
+            <p>NOW its evident from the <hi>Goſpels,</hi> that <hi>Our Sa<g ref="char:EOLhyphen"/>viour</hi> was Crucified on <hi>Friday,</hi> at the <hi>Jewiſh Paſſo<g ref="char:EOLhyphen"/>ver,</hi> and Roſe again from the Dead on the <hi>Sunday</hi> following, being, at that time, call'd, <hi>The firſt day of the Week,</hi> Mat. 28. 1. Mark 16. 1, 2, <hi>&amp;c.</hi> And when the <hi>Christians</hi> thought it neceſſary to keep up the <hi>Memory</hi> of ſo great a <hi>Deliverance,</hi> by a Solemn <hi>Feſtival,</hi> they call'd theirs alſo the <hi>Paſſover,</hi> and had no other Rules for the finding of it, but what the <hi>Jews</hi> had for theirs, and left the Calculation of it to them: For moſt of the <hi>Firſt Chriſtians</hi> were
+<pb n="6" facs="tcp:62746:6"/> 
+               <hi>Converts</hi> from <hi>Judaiſm,</hi> and Zealous for the Rites of the <hi>Law</hi> of <hi>Moſes (Acts</hi> 21. 20.) and one <hi>Philip,</hi> giving an Account of a <hi>Paſchal</hi> Synod, in the Se<g ref="char:EOLhyphen"/>cond <hi>Century,</hi> begins his <hi>Epiſtle</hi> with this Obſerva<g ref="char:EOLhyphen"/>tion, <hi>That the Apoſtles being wholly taken up with Preaching of the Goſpel to the ſeveral Nations of the World, did not eſtabliſh any Rules among Chriſtians for the exact time of</hi> Eaſter. And, <hi>Epiphanius</hi> far<g ref="char:EOLhyphen"/>ther relates, <hi>That there was an old Apoſtolick Conſti<g ref="char:EOLhyphen"/>tution, by which the Chriſtians were forbidden to trou<g ref="char:EOLhyphen"/>ble themſelves with ſcrupulous Calculations; but keep it at the ſame time as the Chriſtians of Jeruſalem, who being Converts from the Jews, underſtood the Me<g ref="char:EOLhyphen"/>thods and Rules that were uſed by them for the diſcove<g ref="char:EOLhyphen"/>ry of the</hi> Paſſover. Now all the Biſhops of <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> till <hi>Adrian</hi> deſtroy'd it, were originally <hi>Jews,</hi> as is obſerved by <hi>Euſebius;</hi> and ſo long the Chri<g ref="char:EOLhyphen"/>ſtian World received the time of <hi>Eaſter</hi> thence: but after <hi>Jeruſalem</hi> had been quite Ruin'd by the Em<g ref="char:EOLhyphen"/>perour, and there were no more Biſhops there of the <hi>Circumciſion,</hi> every Church began to have Rules of their own, and the Chriſtian World was divided about their <hi>Feaſt of Love;</hi> and though many SY<g ref="char:EOLhyphen"/>NODS were Aſſembled to determine this Matter by Pope <hi>Victor</hi> at <hi>Rome, Theophilus</hi> at <hi>Ceſarea,</hi> and other Biſhops in other Churches, yet ſtill the Diſſen<g ref="char:EOLhyphen"/>ſion continued, and Diſputes increaſed, till at laſt, <hi>A. D.</hi> 325, they were happily ended by <hi>Conſtan<g ref="char:EOLhyphen"/>tine</hi> the Great, in the Firſt General Council at <hi>Nice,</hi> Rules eſtabliſh'd, and Tables drawn up for the exact diſcovery of the Time of <hi>EASTER</hi> for ever.</p>
+            <pb n="7" facs="tcp:62746:6"/>
+            <p>THAT the Chriſtians, even from the Beginning, did obſerve this Feaſt, is evident from St. <hi>Paul,</hi> 1 Cor. 5. 7, 8. <hi>Chriſt our Paſſover is Sacrificed for us, there<g ref="char:EOLhyphen"/>fore let us keep the Feast, not with old Leven, neither with the Leaven of Malice and Wickedneſs, but with the <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>leavened Bread of Sincerity and Truth.</hi> And <hi>Origen,</hi> an early Chriſtian Writer, in his <hi>Comments</hi> on St. <hi>John</hi>'s <hi>Goſpel,</hi> Explains thoſe words; <hi>Now the Paſſover, a Feaſt of the Jews, was at hand;</hi> to have been uſed by the <hi>Evangeliſt,</hi> to diſtinguiſh that from the <hi>Christian Paſſover,</hi> which was then obſerved.</p>
+            <p>THE greateſt part of the Chriſtian World, ſince the Firſt Council of <hi>Nice,</hi> have conform'd themſelves to the <hi>Paſchal Rules</hi> that were there eſtabliſh'd; and the whole <hi>Western Church,</hi> at the time of our Refor<g ref="char:EOLhyphen"/>mation from the Church of <hi>Rome,</hi> knew of no other. As in other things, ſo in this alſo, it was the Me<g ref="char:EOLhyphen"/>thod of our Reformation, to depart no farther from the Church of <hi>Rome,</hi> than ſhe had from the Truth, (<hi>ſee<g ref="char:punc">▪</g> Can. 30. publiſh'd A. D.</hi> 1603.) and, in keeping of <hi>Eaſter,</hi> conform'd her ſelf to the ſame time that was then obſerved in <hi>Italy, France, Spain, Germany,</hi> and moſt other Churches of the Chriſtian World, and all this in Obedience and Conformity to the Decrees of the Firſt General Council. And, to prevent all dif<g ref="char:EOLhyphen"/>ference upon this Subject, our Church hath, in her very <hi>Liturgy,</hi> Eſtabliſh'd by <hi>Act of Parliament,</hi> not only from that Council at <hi>Nice,</hi> inſerted this Gene<g ref="char:EOLhyphen"/>ral Rule, <hi>That</hi> Eaſter-Day <hi>is allways the Firſt</hi> Sun<g ref="char:EOLhyphen"/>day
+<pb n="8" facs="tcp:62746:7"/> 
+               <hi>after the Firſt Full Moon, which happens next af<g ref="char:EOLhyphen"/>ter the 21ſt day of</hi> March; <hi>and, if the Full Moon happen upon a</hi> Sunday, Eaſter-Day <hi>is the</hi> Sunday <hi>after:</hi> But alſo, leſt any difference ſhould ariſe about the <hi>New-Moons,</hi> hath, in the Firſt Co<g ref="char:EOLhyphen"/>lumn of the <hi>Calendar,</hi> put down all the <hi>New-Moons</hi> for a Complete <hi>Cycle</hi> of 19 Years, with Direction to take the <hi>Paſchal New-Moons</hi> from that <hi>TABLE</hi> for ever; and all this according to the <hi>Decrees</hi> of the <hi>Firſt Council</hi> at <hi>Nice,</hi> and Practiſe of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Church.</hi>
+            </p>
+            <p>AND though the <hi>Vernal Equinox,</hi> ſince the time of that Council, be gotten from the <hi>21ſt</hi> to the <hi>10th</hi> of <hi>March;</hi> and this <hi>TABLE</hi> of <hi>New-Moons</hi> is now above Four Dayes falſe; yet, in things unde<g ref="char:EOLhyphen"/>termin'd by God's Law, we have alwayes Pre<g ref="char:EOLhyphen"/>ferr'd Peace and Unity, and the <hi>Communion of Saints,</hi> before a Needleſs <hi>Separation and Diviſion.</hi>
+            </p>
+            <p>IT was once the Objection of Mr. <hi>Baxter</hi> and his Party, That our <hi>Church</hi> did not keep <hi>Eaſter,</hi> accor<g ref="char:EOLhyphen"/>ding to our own Rules; and that ſome Years our <hi>Eaſter</hi> was not the Firſt <hi>Sunday</hi> after the Firſt <hi>Full Moon</hi> that was after the <hi>21th</hi> Day of <hi>March.</hi> But had that Scrupulous Perſon underſtood the <hi>Cycle</hi> of <hi>New Moons</hi> inſerted in the Firſt <hi>Column</hi> of our <hi>Ca<g ref="char:EOLhyphen"/>lendar,</hi> and that the <hi>Paſchal Moon</hi> is to be taken thence; he would have ſeen his Miſtake, and been aſhamed of the Objection.</p>
+            <pb n="9" facs="tcp:62746:7"/>
+            <p>NOW becauſe the <hi>Nicene Council,</hi> in Compo<g ref="char:EOLhyphen"/>ſing theſe <hi>TABLES,</hi> hath made uſe of the <hi>Julian</hi> year, this alſo is uſually call'd the <hi>Julian</hi> Account: the <hi>Julian</hi> year hath been vulgarly uſed from be<g ref="char:EOLhyphen"/>fore the Birth of our Saviour, and the way of find<g ref="char:EOLhyphen"/>ing <hi>Eaſter</hi> for above 1300 years.</p>
+            <div type="part">
+               <head>Of the <hi>Gregorian</hi> ACCOUNT, and New-Style.</head>
+               <p>FROM the time of the Firſt <hi>Nicene</hi> Council, till the year of our Lord 1582, the <hi>Julian</hi> year, and <hi>Nicene</hi> Rules were made uſe of in moſt Countreys in the World for finding of <hi>Eaſter,</hi> till in that Year Pope <hi>Gregory</hi> the <hi>13th,</hi> by his ſole Autho<g ref="char:EOLhyphen"/>rity, Cancell'd all this <hi>Old Account,</hi> Introduc'd a <hi>New Calendar,</hi> Compoſed chiefly by <hi>Aloyſius Lily</hi> and his Brother, and New <hi>TABLES</hi> for the find<g ref="char:EOLhyphen"/>ing of <hi>Eaſter:</hi> Becauſe the <hi>Vernal Equinox</hi> was then from the <hi>21ſt</hi> gotten to the <hi>11th</hi> of <hi>March,</hi> he or<g ref="char:EOLhyphen"/>dered <hi>Ten</hi> Days to be left out of the Month of <hi>October,</hi> ſo that the <hi>15th</hi> Day was that Year next after the <hi>4th,</hi> from whence aroſe the Difference betwixt the <hi>New</hi> and <hi>Old Style,</hi> our Fifth of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> thereby becoming their <hi>15th.</hi>
+               </p>
+               <pb n="10" facs="tcp:62746:8"/>
+               <p>AND, that my Reader may have a clear Ap<g ref="char:EOLhyphen"/>prehenſion of this matter, I have here Inſerted the Month of <hi>October,</hi> Tranſcribed from one of the O<g ref="char:EOLhyphen"/>riginal <hi>Calendars,</hi> that were Printed and Publiſhed by the Command and Authority of the ſaid Pope <hi>Gregory</hi> the <hi>XIIIth,</hi> for the very Year 1582.</p>
+               <div type="calendar">
+                  <pb n="11" facs="tcp:62746:8"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">
+                              <hi>Dies Menſis.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Cai deſunt 10 Dies pro correctione Anni So<g ref="char:EOLhyphen"/>laris.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>1</cell>
+                           <cell>
+                              <hi>Remigii Epiſc. &amp; Confeſs.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>
+                              <hi>Franciſci confeſſoris. Duplex.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>15</cell>
+                           <cell>
+                              <hi>Dionyſii, Ruſtici, &amp; Eleutherii Mart. Semi dupl. cum commemo. S. Marci Papae &amp; Con<g ref="char:EOLhyphen"/>feſſor. &amp; S. S. Sergii, Bacchi, Marcelli &amp; A<g ref="char:EOLhyphen"/>pulei Martyrum.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>16</cell>
+                           <cell>
+                              <hi>Caliſti Papae &amp; Martyr. Semidupl.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>17</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>18</cell>
+                           <cell>
+                              <hi>Lucae Evangeliſtae. Duplex.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>19</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>20</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>21</cell>
+                           <cell>
+                              <hi>Hilarionis Abbatis, &amp; commemoratio S. S. <g ref="char:V">Ʋ</g>rſulae et Sociarum virginum &amp; Martyrum</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>22</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>23</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>24</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>25</cell>
+                           <cell>
+                              <hi>Chryſantae &amp; Dariae Martyr.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>26</cell>
+                           <cell>
+                              <hi>Euariſti Papae &amp; Martyr.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>27</cell>
+                           <cell>
+                              <hi>Vigilia.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>28</cell>
+                           <cell>
+                              <hi>Simonis &amp; Judae Apoſtolorum. Dupl.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>29</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>30</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>31</cell>
+                           <cell>
+                              <hi>Vigilia.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="12" facs="tcp:62746:9"/>
+                  <p>I need not Inſert a Tranſlation of this Month, it being obvious to every common <hi>Reader,</hi> what a Skip here is, from the Fourth to the Fifteenth Day; and how the Commemoration of all thoſe <hi>Saints,</hi> that were uſually on thoſe Ten dayes, were that year added to the Fifteenth Day. Now, by this Regu<g ref="char:EOLhyphen"/>lation of Pope <hi>Gregory,</hi> the <hi>15th</hi> Day of <hi>October</hi> was that which was call'd the <hi>5th,</hi> the <hi>16th</hi> what was formerly the <hi>6th,</hi> and ſo on; by which means there aroſe Ten Days difference betwixt the <hi>Julian</hi> or <hi>Old Style,</hi> and the <hi>Gregorian</hi> or <hi>New.</hi> A thing ſcarcely to be parallell'd, except with that Humor<g ref="char:EOLhyphen"/>ſome <hi>Edict</hi> of <hi>Alexander</hi> the Great, who, when he found his Souldiers ſuperſtitiouſly averſe from Fight<g ref="char:EOLhyphen"/>ing, becauſe it was the Month <hi>Deſius,</hi> Publiſh'd a Decree, that for the future, that Month ſhould not be accounted the Month <hi>Deſius,</hi> but <hi>Artemiſius;</hi> and immediately engaged and beat the Enemy: Or elſe, with that more abſurd Decree of the Men of <hi>Athens,</hi> who, when <hi>Demetrius,</hi> in the Month of <hi>March,</hi> had a great deſire to be initiated into their greater and leſſer Ceremonies, one of which was conſtantly in the Month of <hi>November,</hi> the other in <hi>Auguſt,</hi> they ordered that that <hi>March</hi> ſhould be forthwith called <hi>November;</hi> and when thoſe leſſer Rites were over, they Decreed again, that that ſame Month ſhould be called <hi>Auguſt,</hi> and it was ſo; of which the Poet <hi>Philippides</hi> thus Jeſted up<g ref="char:EOLhyphen"/>on <hi>Demetrius,</hi>
+                  </p>
+                  <q>
+                     <pb n="13" facs="tcp:62746:9"/> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> i. e. <hi>That contracted a whole Year into one Month,</hi> 
+                     <bibl>Plutarch in the Life of <hi>Demetrius.</hi>
+                     </bibl>
+                  </q>
+                  <p>Much ſuch was the power of the Papal Bull in contracting the 31 Dayes of <hi>October</hi> into One and twenty, and making the <hi>15th</hi> Day immedi<g ref="char:EOLhyphen"/>ately ſucceed the <hi>4th.</hi> And becauſe the ſame Pope foreſaw, that in Tract of Time, that Cor<g ref="char:EOLhyphen"/>rection alſo would be falſe, and the <hi>Equinox</hi> again Anticipate in the <hi>Julian</hi> Months, he far<g ref="char:EOLhyphen"/>ther Decreed, that after the Year 1600, Three even <hi>Centuries</hi> ſhould paſs without any <hi>Intercalati<g ref="char:EOLhyphen"/>ons,</hi> though they were otherwiſe <hi>Biſſextile</hi> Years, <hi>viz.</hi> A. D. 1700, 1800, 1900; and then, that the <hi>4th</hi> even <hi>Century,</hi> or <hi>A. D.</hi> 2000. ſhould be <hi>Biſ<g ref="char:EOLhyphen"/>ſextile</hi> again; and that ſame Method of making only every <hi>4th</hi> even <hi>Century, Biſſextile,</hi> ſhould con<g ref="char:EOLhyphen"/>tinue for ever. By which means it comes to paſs, that though the <hi>Gregorian Account</hi> hath hitherto differ'd but 10 Days from the <hi>Julian;</hi> yet, after the <hi>24th</hi> Day of <hi>February</hi> next, when in the <hi>Ju<g ref="char:EOLhyphen"/>lian</hi> Year, a <hi>Biſſextile</hi> Day is to be Intercalated; there will be 11 difference betwixt them: And a Letter Dated on the <hi>Firſt</hi> of <hi>March,</hi> A. D. 1700, <hi>N. S.</hi> will be 11 Days before one dated the ſame day, according to the <hi>Julian,</hi> or <hi>Old Style:</hi> And at the end of the next <hi>Century,</hi> the Difference will be 12 Days, and ſo on.</p>
+                  <pb n="14" facs="tcp:62746:10"/>
+                  <p>TO diſcover the <hi>New Moons</hi> for ever, inſtead of the <hi>Golden Number,</hi> and <hi>Tables</hi> of <hi>New Moons</hi> fit<g ref="char:EOLhyphen"/>ted to them, the ſame Pope <hi>Gregory</hi> appointed <hi>Ta<g ref="char:EOLhyphen"/>bles</hi> of <hi>Epacts,</hi> and others of Equation of <hi>Epacts,</hi> to continue for ever. And becauſe the taking of Ten Days out of the Month <hi>October,</hi> perverted the or<g ref="char:EOLhyphen"/>der of the <hi>Dominical Letter,</hi> the ſame Pope was forced to Cancel the <hi>Old,</hi> and eſtabliſh a <hi>New Cy<g ref="char:EOLhyphen"/>cle</hi> of the <hi>Dominical Letter,</hi> quite different from the former.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:62746:10"/>
+               <head>That the <hi>Reformed Churches</hi> ſhould not lay aſide the Julian, or <hi>Old-Style,</hi> to Eſtabliſh the <hi>Gregori<g ref="char:EOLhyphen"/>an,</hi> or <hi>New-Style.</hi>
+               </head>
+               <p>HAVING thus far given a True, tho' Short Ac<g ref="char:EOLhyphen"/>count of the <hi>Julian,</hi> or <hi>Old,</hi> and the <hi>Gregorian,</hi> or <hi>New Style;</hi> the next thing that I ſhall here briefly in<g ref="char:EOLhyphen"/>quire into, is, Whether it be Expedient for the <hi>Re<g ref="char:EOLhyphen"/>formed Churches</hi> to continue the <hi>Julian Account,</hi> and <hi>Old Paſchal Tables,</hi> which have been all along continued in the <hi>Chriſtian Churches</hi> from the <hi>Primitive Times,</hi> or, if we leave that, ſhould follow the <hi>New-Style</hi> of Pope <hi>Gregory.</hi> And tho', at firſt view, it might ſeem reaſonable for us, in an indifferent thing, and where they are nearer the Truth, to comply with the Church of <hi>Rome;</hi> yet, in my Opinion, in the Matter before us, 'tis by no means adviſeable.</p>
+               <p>
+                  <hi>Firſt,</hi> BECAUSE in matters relating to <hi>Religion,</hi> 'tis beſt not to make any Alterations, except upon great and preſſing occaſions, and where our Church may get ſome conſiderable advantage by the Change; or unleſs the matter in Diſpute be determin'd by the Word of God, and 'tis evident from thence, that our
+<pb n="16" facs="tcp:62746:11"/> Church is in an Errour. But, as I ſhall ſhew preſently, ſuch alteration as this is not likely to pro<g ref="char:EOLhyphen"/>duce good, but miſchief to our Church, and occaſion new differences, as it hath already done in the <hi>Palati<g ref="char:EOLhyphen"/>nate</hi> Churches; and the matter before us, is, in its own nature, purely indifferent, and never determin'd one way or other, neither by <hi>Moſes</hi> and the <hi>Prophets</hi> in the <hi>Old Teſtament,</hi> nor by <hi>Chriſt</hi> and his <hi>Apoſtles</hi> in the <hi>New.</hi>
+               </p>
+               <p>
+                  <hi>Secondly.</hi> IN things thus left indifferent, we ought principally to be govern'd by the Determination of <hi>Ge<g ref="char:EOLhyphen"/>neral Councils;</hi> and when they alſo are ſilent, by the <hi>De<g ref="char:EOLhyphen"/>crees</hi> and <hi>Canons</hi> of <hi>National Synods.</hi> And, to apply this Rule to our preſent purpoſe, if we look back to the <hi>Primitive Church,</hi> its evident what heats and feuds were then amongſt Chriſtians, occaſion'd by the diffe<g ref="char:EOLhyphen"/>rent Rules they had for finding of <hi>Eaſter.</hi> And ſo long as this matter ſtood undetermin'd by a <hi>General Council<g ref="char:punc">▪</g>
+                  </hi> every <hi>National Church</hi> follow'd its own way, and all the Threats of <hi>Rome,</hi> by <hi>Victor,</hi> and other Biſhops of that See, ſignified very little towards ending of the Controverſie, till it was, at length, happily determin'd by the Firſt <hi>General Council</hi> at <hi>Nice,</hi> to whoſe Autho<g ref="char:EOLhyphen"/>rity all the Churches of the World quietly ſubmitted, and Peace and Uniformity were eſtabliſh'd, till at length, above a Thouſand years after, Pope <hi>Gregory</hi> revived the difference, and ſet up the Authority of that one See above the Decree of a <hi>General Council.</hi> And this the Bigots of that Religion pretend to juſtify. How did the Church of <hi>Rome</hi> at the beginning of the Reformation Triumph over the <hi>Proteſtants,</hi> that the
+<pb n="17" facs="tcp:62746:11"/> Fathers and Councils were all on their ſide; but after they had been ſufficiently baffled by Biſhop <hi>Jewel</hi> and other Learned <hi>Proteſtants,</hi> and it hath been ſufficient<g ref="char:EOLhyphen"/>ly proved that the <hi>Fathers</hi> and <hi>Councils</hi> are on our ſide, they are run into the quite contrary Extream, and in a needleſs controverſy, left the <hi>Proteſtants</hi> in full poſſeſ<g ref="char:EOLhyphen"/>ſion of a <hi>General Council</hi> on their ſide, whilſt they themſelves ran ſchiſmatically into a manifeſt <hi>contempt</hi> of it, and publickly own'd the laying of it<g ref="char:punc">▪</g> aſide. Had the <hi>Reformed Churches</hi> done this, the whole <hi>World</hi> would have been fill'd with <hi>Clamours</hi> againſt them, and a great <hi>Outcry</hi> made of their <hi>Schiſm.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly.</hi> WERE the Church of <hi>Rome</hi> in the right, and the <hi>Gregorian Style</hi> far better than the <hi>Julian,</hi> yet we ſhould be backward in complying with them, both upon the account of the <hi>Romaniſts,</hi> who will conſtrue this to be a <hi>Compliance</hi> with the <hi>Decree</hi> of Pope <hi>Grego<g ref="char:EOLhyphen"/>ry,</hi> whoſe <hi>Language</hi> in this matter is very abſolute and imperious. <hi>Nulli ergo hominum liceat hanc pagi<g ref="char:EOLhyphen"/>nam voluntatis noſtrae infringere, vel ei auſu temerario contraire, ſi quis autem hoc attentare praeſumpſerit, indig<g ref="char:EOLhyphen"/>nationem Omnipotentis Dei, ac beatorum Petri &amp; Pauli Apoſtolorum ejus, ſe noverit incurſurum</hi>—and again, <hi>qui ſecus ſecerit Excommunicationem incurrat,</hi> i. e. <hi>Let no one dare to contradict this our Decree</hi> (about the <hi>New Style) and if any one ſhall preſume to attempt it, let him know that he incurs the indignation of Almighty God, and of his holy Apoſtles</hi> St. Peter <hi>and St.</hi> Paul—<hi>and ſhall forthwith be excomnnicated out of the Church.</hi> Hitherto we in <hi>England</hi> have layn under this horrible <hi>Curſe,</hi> and what will our preſent <hi>Compliance</hi> be conſtrued, but a fear of the <hi>Papal Thunder,</hi> and at leaſt a <hi>tacit Submiſ<g ref="char:EOLhyphen"/>ſion</hi>
+                  <pb n="18" facs="tcp:62746:12"/> to that Chair; <hi>Hoc Ithacus velit<g ref="char:punc">▪</g>
+                  </hi> Much leſs ſhould we comply upon the account of the <hi>Proteſtant Diſſenters,</hi> who have been always jealous of our inclining too much towards <hi>Rome,</hi> and in this matter ſhould we do it, will moſt certainly cenſure and upbraid us for the <hi>Compliance,</hi> and obſerving the <hi>Decrees</hi> of a <hi>Pope</hi> of <hi>Rome</hi> made ſince the <hi>Reformation;</hi> and let us before-hand con<g ref="char:EOLhyphen"/>ſider how we ſhall be able to anſwer them. However it was the Wiſdom of our firſt <hi>Reformers</hi> to comply as far as poſſible, with the <hi>Rites</hi> and <hi>Cuſtoms</hi> of the <hi>Church</hi> of <hi>Rome,</hi> and thereby bring over many of them to our Communion; yet ſince now there is little of that nature to be hoped for, our <hi>wiſeſt Biſhops</hi> have laid a<g ref="char:EOLhyphen"/>ſide all thoughts of working upon them any further by compliance, and much rather take care to Convince the <hi>Diſſenting Proteſtants,</hi> who are far the more nume<g ref="char:EOLhyphen"/>rous Party, that we are not <hi>Popiſhly</hi> inclined. When there was lately a <hi>Controverſy</hi> in <hi>England</hi> about the <hi>Feast-day</hi> of <hi>Matthias,</hi> our late <hi>Arch-Biſhop,</hi> to prevent a ſeeming compliance with the Rules of the <hi>Romiſh Church,</hi> order'd it to be kept on the 24th day of <hi>February,</hi> even in <hi>Leap-Year,</hi> notwithſtanding the Church had been then long in poſſeſſion of a different practice, and was in ſome meaſure countenanc'd in it, by an <hi>Act of Parliament,</hi> that order'd the 24th and 25th of <hi>February</hi> in <hi>Leap-Year,</hi> to be eſteem'd as the ſame day. If we look back into former <hi>Ages,</hi> we may learn from our own <hi>Bede,</hi> what <hi>Struglings</hi> and long <hi>Contentions</hi> our <hi>Biſhops</hi> had with the Church of <hi>Rome,</hi> rather than they would alter their old way of keeping of <hi>EASTER.</hi> One thing in that <hi>Controverſy</hi> is very remarkable to our preſent purpoſe, <hi>viz.</hi> That the
+<pb n="19" facs="tcp:62746:12"/> 
+                  <hi>Biſhops</hi> of <hi>Rome</hi> did then urge againſt our <hi>Biſhops, the Decrees of the <g ref="char:V">Ʋ</g>niverſal Church</hi> in the <hi>Council</hi> of <hi>Nice, (Bedae Eccl. H. l<g ref="char:punc">▪</g> 2. c.</hi> 19.) and that their way of finding <hi>Easter</hi> was practiſed in <hi>Africa, Aſia, Egypt, Greece,</hi> and almoſt all the World. (<hi>ib. l. 3 c.</hi> 25.) Now it ſeems very unreaſonable, after we have been per<g ref="char:EOLhyphen"/>ſwaded to comply with them upon thoſe <hi>Reaſons,</hi> that the ſame <hi>Perſons</hi> ſhould now endeavour to perſwade us to leave that very way which they have taught us, and that too, not with (as formerly) but againſt the <hi>Authority</hi> of the firſt <hi>general Council,</hi> and the conſent of the <hi>Aſian, African</hi> and <hi>Greek Churches,</hi> which are now on our ſide. So far will our compliance be from promoting the <hi>peace of the Church,</hi> that in our joining with the <hi>Romanists,</hi> we ſhall manifeſtly fall off from the <hi>Grecian, Aſian</hi> and other <hi>Eaſtern Churches,</hi> who to this day critically obſerve the <hi>Rules</hi> of the firſt <hi>Nicene Council.</hi> There is one conſiderable reaſon why we ſhould be govern'd by the Rules of that <hi>Council,</hi> and that is, becauſe we were at that time Subjects of <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> the Emperor<g ref="char:punc">▪</g> who ſummon'd that <hi>Council,</hi> and confirm'd their <hi>Sanctions,</hi> and did then ſubmit to their <hi>Decrees</hi> about keeping of <hi>Eaſter,</hi> as appears from that Emperors Letter preſerv'd by <hi>Euſebius</hi> in his Life of <hi>Conſtantine.</hi> One of our late <hi>Acts of Parliament (Stat. 1. Eliz. ch.</hi> 1.) declares the <hi>Authority</hi> of that <hi>Coun<g ref="char:EOLhyphen"/>cil,</hi> as next to that of the <hi>Holy Scriptures,</hi> and our pre<g ref="char:EOLhyphen"/>ſent <hi>Act of <g ref="char:V">Ʋ</g>niformity,</hi> hath not only Authoritatively ſettled the <hi>Nicene Creed,</hi> but the <hi>Nicene Rules</hi> alſo for finding of <hi>Easter;</hi> ſo that this matter cannot be alter'd without an <hi>Act of Parliament</hi> and change of our <hi>Litur<g ref="char:EOLhyphen"/>gy,</hi> which ſince we have been ſo averſe to, for the ſake
+<pb n="20" facs="tcp:62746:13"/> of our own <hi>Proteſtant Diſſenters,</hi> it will ſeem very un<g ref="char:EOLhyphen"/>reaſonable to do it in compliance with the <hi>Romaniſts.</hi>
+               </p>
+               <p>That which will be a matter of the greateſt moment for us to conſider is, whether this alteration by Pope <hi>Gregory</hi> be correct and true, or whether, if we ſhould now comply with them, ſome new <hi>Pope</hi> may not cor<g ref="char:EOLhyphen"/>rect theſe <hi>Alterations,</hi> and think ſome other way more exact, as was famouſly done in the correct Edition of the <hi>Bible</hi> by Pope <hi>Clement</hi> VIII. who in 2000 places chang'd the <hi>Infallible Edition</hi> of the <hi>Bible,</hi> publiſh'd but two years before by <hi>Pope Sixtus</hi> V. and then we ſhall be again importun'd to dance after them, and leave the <hi>Gregorian,</hi> as they would now have us leave the <hi>Juli<g ref="char:EOLhyphen"/>an Account.</hi> I ſhall therefore in the next place examine the Errors and Miſtakes of <hi>Pope Gregory</hi> in correcting the Year: and that</p>
+               <p>
+                  <hi>Firſt,</hi> IF we would have corrected the <hi>Paſchal Ta<g ref="char:EOLhyphen"/>bles,</hi> we ought not to have reduc'd them to the Order of the <hi>Heavenly Bodies,</hi> at the time of the <hi>Nicene Coun<g ref="char:EOLhyphen"/>cil,</hi> 325 Years after <hi>Chriſt,</hi> which is all that is pretended to by <hi>Pope Gregory,</hi> but to the time of <hi>our Saviour</hi> and the firſt <hi>Chriſtian Paſſover;</hi> to the end that <hi>Equinox</hi> ſhould not have been brought back to <hi>March</hi> the 21th, but to <hi>March</hi> the 25th where it was at the time of <hi>our Savi<g ref="char:EOLhyphen"/>ours Crucifixion.</hi> And whereas the <hi>Romaniſts</hi> now com<g ref="char:EOLhyphen"/>memorate our Saviour's Reſurrection on the firſt <hi>Sun<g ref="char:EOLhyphen"/>day,</hi> after the firſt <hi>Full-Moon,</hi> that is after the 21ſt of <hi>March,</hi> our <hi>Saviour</hi> did not riſe from the Dead, till the firſt <hi>Sunday</hi> after the firſt <hi>Full-Moon,</hi> that was after the 25th of <hi>March,</hi> if the <hi>Equinox</hi> in that Age was their Guide for the <hi>Paſſover.</hi> This was certainly a great o<g ref="char:EOLhyphen"/>verſight of the <hi>Infallible Chair,</hi> and may be a ſufficient reaſon why we ſhould not join with them.</p>
+               <pb n="21" facs="tcp:62746:13"/>
+               <p>
+                  <hi>Secondly.</hi> THERE is great reaſon for us to ſuſpect, that the <hi>Jews</hi> in the time of our Saviour did not mind the <hi>Equinox,</hi> but the <hi>Sun</hi>'s entrance into <hi>Aries,</hi> which according to the prevailing opinion of that Age was <hi>Eight</hi> days before it. Thus <hi>Joſephus</hi> (Antiq. l. 2. c. 10.) ſaith, <hi>That the Jewiſh Paſſover was the 14th Day of the firſt Month, the Sun being in Aries,</hi> and <hi>Anatolius</hi> from ſeveral old <hi>Jewiſh Authors</hi> relates, <hi>That that was the firſt Month among the</hi> Jews, <hi>in which the Sun entred the firſt Sign of the Zodicak;</hi> and perhaps the <hi>Jews</hi> might think, that their <hi>Paſchal Lamb,</hi> which was always to be a <hi>Male,</hi> might have ſome relation to the Sign of <hi>Aries</hi> in the <hi>Heavens.</hi> Now its certain, that about the time of our <hi>Saviour,</hi> Learned Men diſtinguiſh'd betwixt the time of the <hi>Equinox,</hi> and of the <hi>Suns</hi> entrance into <hi>Aries,</hi> and made this laſt <hi>Eight Days</hi> before the other, as ap<g ref="char:EOLhyphen"/>pears from <hi>Varro, Ovid, Manilius, Columella, Pliny,</hi> and the very <hi>Calendar</hi> of <hi>J. Caeſar,</hi> in which the <hi>Sun</hi>'s en<g ref="char:EOLhyphen"/>trance into <hi>Aries</hi> is <hi>March</hi> the 18th, and the <hi>Vernal E<g ref="char:EOLhyphen"/>quinox March</hi> the 25th. When <hi>Anatolius</hi> plac'd the <hi>E<g ref="char:EOLhyphen"/>quinox March</hi> the 22d, he expreſly ſaid, that the Sun was then got <hi>Four Degrees</hi> in <hi>Aries,</hi> and therefore en<g ref="char:EOLhyphen"/>tred <hi>Aries March</hi> the 18th, and in <hi>Bede</hi> the <hi>Sun</hi>'s entrance into that Sign is the 15th of the Calends of <hi>April,</hi> or <hi>March</hi> the 18th. Nor was this the opinion of the <hi>Greeks</hi> and <hi>Romans</hi> only, but of the <hi>Egyptians</hi> alſo, as appears from <hi>Manetho</hi>'s <hi>Apoteleſmata,</hi> who (<hi>l. 2. v.</hi> 73, 74, 75.) expreſly ſaith, <hi>that the Summer Solſtice was, when the Sun was in the 8th Degree of Cancer.</hi> And this Entrance of the Sun into <hi>Aries,</hi> was what both <hi>Jews</hi> and <hi>Chriſtians</hi> chiefly looked after in diſcovering the time of the <hi>Paſ<g ref="char:EOLhyphen"/>ſover. Hippolitus</hi> was the firſt <hi>Chriſtian</hi> Writer that
+<pb n="22" facs="tcp:62746:14"/> publiſh'd <hi>Paſchal Tables,</hi> and in them imitated the <hi>Jews;</hi> theſe <hi>Tables</hi> are now extant, and in every 16 Years <hi>Eaſter</hi> twice fell upon <hi>March</hi> the 18th, long be<g ref="char:EOLhyphen"/>fore the <hi>Equinox,</hi> but not before the <hi>Sun</hi>'s entrance into <hi>Aries.</hi> St. <hi>Cyprian</hi> in his Book <hi>de Paſchate</hi> gives the Rules for diſcovering of <hi>Eaſter</hi> both among the <hi>Jews</hi> and <hi>Chriſtians,</hi> and its evident that he begins the <hi>Paſ<g ref="char:EOLhyphen"/>chal</hi> Month at <hi>March</hi> the 4th, ſo that the 14th day of the <hi>Paſchal Month</hi> may be <hi>March</hi> the 17th, and the 15th day on <hi>March</hi> the 18th. For ſo the <hi>Jews</hi> agree that the 15th day of <hi>Niſan,</hi> may be upon that day that the Sun enters <hi>Aries (Maimon. de Conſecr. Cal.) Victorius</hi> particularly explains the <hi>Paſchal</hi> Terms according to the <hi>Chriſtians</hi> both in <hi>Egypt</hi> and <hi>Rome,</hi> and, with ſmall difference from the <hi>Jews,</hi> makes the <hi>Paſchal Term</hi> begin at <hi>March</hi> the 5th, and ſo the 14th day of the firſt Month might be <hi>March</hi> the 18th. The <hi>Christians</hi> at length about <hi>A. D.</hi> 260 began to underſtand that the Sun entred <hi>Aries</hi> at the <hi>Vernal Equinox,</hi> and <hi>Dionyſius</hi> Biſhop of <hi>Alexandria</hi> inform'd the <hi>Chriſtian World,</hi> that they ought not to keep <hi>Eaſter</hi> before the <hi>Vernal Equi<g ref="char:EOLhyphen"/>nox.</hi> After this was compiled that Canon that forbad the <hi>Christians</hi> to keep <hi>Eaſter,</hi> as the <hi>Jews</hi> did before the <hi>Equinox,</hi> for which the <hi>Jews</hi> were blamed alſo by the Emperor <hi>Conſtantine,</hi> they ſtill keeping their old way of the <hi>Sun</hi>'s Entrance into <hi>Aries</hi> 8 days before the <hi>E<g ref="char:EOLhyphen"/>quinox.</hi> I ſhall only add, that the <hi>Acts</hi> of <hi>Pilate</hi> (a very <hi>Old Book,</hi> quoted by <hi>Juſtin the Martyr,</hi> and other early Fathers) had our <hi>Saviours</hi> Crucifixion on the 18th of <hi>March,</hi> as appears from <hi>Epiphanius,</hi> which would have been very abſurd, if the <hi>Jewiſh Paſſover</hi> could never have been ſo early. If therefore its evident that the <hi>Jews</hi>
+                  <pb n="23" facs="tcp:62746:14"/> in the time of our <hi>Saviour,</hi> and the <hi>Chriſtians</hi> of the 1ſt and 2d <hi>Century,</hi> did not mind the <hi>Equinox</hi> in compu<g ref="char:EOLhyphen"/>ting of <hi>Eaſter,</hi> but the Sun's entrance into <hi>Aries</hi> 8 days before it, then this will be a convincing <hi>Argument</hi> a<g ref="char:EOLhyphen"/>gainſt the <hi>Truth</hi> of the <hi>Gregorian Account,</hi> that makes <hi>Eaſter</hi> depend upon and ſucceed the <hi>Equinox.</hi> Nor is it to any purpoſe for the <hi>Romaniſts</hi> to reply that the <hi>Jews</hi> err'd in keeping the <hi>Paſſover</hi> at that time, ſince all that the <hi>Chriſtians</hi> can do, is to keep their <hi>Easter</hi> at that time when our <hi>Saviour</hi> was Crucified and roſe again, which was at the <hi>Jewiſh Paſſover,</hi> whether they obſerved the right time or not.</p>
+               <p>
+                  <hi>Thirdly.</hi> THE <hi>Gregorian</hi> Rule for finding of the <hi>E<g ref="char:EOLhyphen"/>quinox,</hi> makes the <hi>Preceſſion</hi> come to three days in 400 Years, that is, one day in 133 ⅓ Years. Now I think it may be prov'd that the <hi>Preceſſion</hi> is much greater, and comes to one whole Day in 120 Years. For the Demon<g ref="char:EOLhyphen"/>ſtration of this, I ſhall refer my <hi>Reader</hi> to that excellent Book of <hi>Lidyat</hi>'s <hi>de Anni Solaris Menſura,</hi> and may my ſelf hereafter confirm what he there layeth down, with other convincing Arguments, which that Learned Man never thought of. For theſe <hi>Reaſons</hi> I take the <hi>Gregori<g ref="char:EOLhyphen"/>an Account</hi> to be very injudicious and falſe, and there<g ref="char:EOLhyphen"/>fore not to be follow'd by <hi>Proteſtants.</hi> Not to mention that if we would have reduc'd our <hi>Eaſter</hi> to what it was at the <hi>Nicene Council,</hi> there had been an eaſier me<g ref="char:EOLhyphen"/>thod and free from the inconveniences of the <hi>Gregorian.</hi> There need have nothing elſe been done, but declaring the 11th of <hi>March</hi> to be the <hi>Paſchal Equinox,</hi> and that in every 120 Years, it ſhould have advanc'd one day farther, for its not material what day of our <hi>Solary Month</hi> we call the <hi>Equinox,</hi> ſo that we be agreed of
+<pb n="24" facs="tcp:62746:15"/> the time. And then, inſtead of introducing perplex'd and difficult <hi>Tables of Epacts,</hi> the <hi>New-Moons</hi> might be diſcover'd for ever by the <hi>Old Tables,</hi> only going back<g ref="char:EOLhyphen"/>ward one Day in 312 Years, from the time of the <hi>Ni<g ref="char:EOLhyphen"/>cene Council,</hi> at this time 4 Days, according to that known Rule <hi>in Caelis est hic.</hi> This had really anſwer'd the whole deſign of the Church of <hi>Rome,</hi> in reſtoring of <hi>Easter</hi> to the meaſures of the <hi>Nicene Council,</hi> and yet had neither diſturb'd the <hi>Julian Account,</hi> nor perverted the <hi>Old Order</hi> of the <hi>Dominical Letter,</hi> nor deſtroyed the uſe of thoſe <hi>Old Tables of New-Moons,</hi> and the <hi>Golden Number.</hi> To conclude therefore this ſhort <hi>Diſſerta<g ref="char:EOLhyphen"/>tion;</hi> Its very obſervable, that when God Almighty order'd the <hi>Jews</hi> to keep the <hi>Paſſover,</hi> and thereby bare in memory the day of their deliverance out of <hi>Egypt,</hi> and at that <hi>Feaſt</hi> teach their Children the reaſon of their keeping of it; God did not give the <hi>Jews</hi> any exact Rules for finding of the Day in a <hi>Solary Year,</hi> but only bade them keep the 14th Day of their <hi>First Month,</hi> or that Month in which their Corn began to be ripe, be it according to the diffe<g ref="char:EOLhyphen"/>rent Seaſons, ſooner or later; and in that <hi>Feast,</hi> not<g ref="char:EOLhyphen"/>withſtanding ſuch difference, the <hi>Jews</hi> were to ſay in their <hi>Hymns</hi> and <hi>Prayers,</hi> and teach their Children, that on that Day God had <hi>deliver'd</hi> them out of <hi>Egypt;</hi> and ſo in the <hi>common</hi> and <hi>civil</hi> uſe of Words, the ſame <hi>Day</hi> of the ſame <hi>Month</hi> is reckon'd the ſame time, tho' the <hi>Month</hi> fell earlier or later in the <hi>Solary Year.</hi> At the time of our <hi>Saviour,</hi> the <hi>Jews</hi> err'd in the time of their <hi>Paſſo<g ref="char:EOLhyphen"/>ver,</hi> (if our Rules that make it depend upon the <hi>Equi<g ref="char:EOLhyphen"/>nox</hi> are true) and made it depend upon a time 8 <hi>Days</hi> ſooner; and yet when this was the Day that the <hi>Sanhe<g ref="char:EOLhyphen"/>drim</hi>
+                  <pb n="25" facs="tcp:62746:15"/> had agreed on, and they that ſate in <hi>Moſes Chair</hi> had ſolemnly appointed; our <hi>Saviour</hi> and his <hi>Apoſtles</hi> never ſcrupl'd the time, but <hi>Chriſt</hi> expreſly ſaid of it, Luk. 22. 7. <hi>That that was the day in which the Paſſover ought to be kill'd.</hi> And ſo the <hi>Jews</hi> aſſert, that it was al<g ref="char:EOLhyphen"/>ways in the power of their <hi>Chief Court</hi> to apoint their <hi>Paſſovers,</hi> and tho they err'd, yet were to be obey'd. <hi>Talmud Sanhed.</hi> p. 13. <hi>&amp;c. Cozri</hi> p. 213, 214. <hi>Maimon, Conſ. Cal.</hi> p. 349. and the <hi>Jews</hi> quote for that opinion. the words of the <hi>Law. Deut.</hi> 17. 9, 10.</p>
+               <p>THE chief thing aim'd at by God in all theſe <hi>Feſti<g ref="char:EOLhyphen"/>vals,</hi> was the <hi>Heart</hi> and the <hi>Devotions;</hi> the <hi>Prayers</hi> and the <hi>Thankſgivings,</hi> and when they were duly per<g ref="char:EOLhyphen"/>form'd, his People might be the leſs ſolicitous for the circumſtance of time. The beſt <hi>Rule</hi> about the time, and what our <hi>Saviour</hi> himſelf practic'd, is to follow the <hi>Commands</hi> of our <hi>Guides</hi> and <hi>Rulers,</hi> and though they ſhould Err in ſome minute Circumſtances of time, yet ſo long as the End of the <hi>Feast</hi> is obtain'd, and <hi>Peace</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> preſerv'd, we are ſure to be blameleſs. And this hath been the method of the <hi>Church</hi> of <hi>England</hi> and other <hi>Reformed Churches;</hi> who conſtantly kept <hi>Eaſter</hi> according to the <hi>Decrees</hi> of the Fathers of the firſt <hi>General Council;</hi> who happily made <hi>Peace</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>nion</hi> in the <hi>Chriſtian World,</hi> and according to the pra<g ref="char:EOLhyphen"/>ctice of all the <hi>Chriſtians</hi> in the World, except the late <hi>Schiſmaticks</hi> of the <hi>Church</hi> of <hi>Rome,</hi> who have in the laſt <hi>Century,</hi> broken the <hi>Decrees</hi> of thoſe very <hi>Councils</hi> that they themſelves magnify, and forſaken the pra<g ref="char:EOLhyphen"/>ctice of all the <hi>Chriſtians</hi> in the World. One of the Principal things that God oblig'd the <hi>Jews</hi> to, was to keep the <hi>Paſſover</hi> in the <hi>firſt</hi> Month of the Year, and
+<pb n="26" facs="tcp:62746:16"/> yet the <hi>Romaniſts,</hi> after all the <hi>Corrections</hi> of Pope <hi>Gre<g ref="char:EOLhyphen"/>gory,</hi> do very often keep <hi>Eaſter</hi> in the <hi>laſt</hi> Month of the Year inſtead of the <hi>firſt,</hi> for the <hi>Roman</hi> Year begins at the 25th day of <hi>March,</hi> and yet their <hi>Eaſter</hi> may be on the 22d, 23d, or 24th day of <hi>March,</hi> and ſo in the <hi>laſt</hi> and not in the <hi>first</hi> Month of the Year. I do not men<g ref="char:EOLhyphen"/>tion this as a matter of ſuch great moment, as to de<g ref="char:EOLhyphen"/>ſerve our altering our <hi>Old Rules;</hi> for, ſo long as we be within the compaſs of that which the <hi>Jews</hi> call'd the <hi>firſt</hi> Month of the Year, its not very material by what Name we call it, but only to ſhew the many <hi>Errors</hi> and <hi>Miſtakes</hi> of the bungling <hi>Corrections</hi> of the Church of <hi>Rome,</hi> and that there is no reaſon at all for us to fol<g ref="char:EOLhyphen"/>low them, but either to keep to our <hi>Old Rules</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>on</hi> with the <hi>Chriſtian</hi> World, or elſe, if we muſt be changing, to do it more correctly than they have done. I ſhall end this ſhort <hi>Diſſertation,</hi> with that Excellent <hi>Advice</hi> of the wiſeſt of <hi>Kings,</hi> and wiſeſt of <hi>Men,</hi> twice mention'd in the ſhort Book of <hi>Proverbs.</hi>
+               </p>
+            </div>
+            <epigraph>
+               <q>Remove not the Antient Land-mark.</q>
+            </epigraph>
+            <!-- Proverbs 22:28 -->
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:62746:16"/>
+            <head>Books Printed for <hi>R. Sare.</hi>
+            </head>
+            <p>An Appeal to all the True Member, of the Church of <hi>England,</hi> in behalf of the King's Supremacy, as by Law Eſtabliſh'd; by our Convocations Approv'd, and our Eminent Biſhops and Clergy-men Stated and De<g ref="char:EOLhyphen"/>fended, againſt both the Popiſh and Fanatical Oppo<g ref="char:EOLhyphen"/>ſers of it, Octavo.</p>
+            <p>A Practical Diſcourſe concerning Prophane Swear<g ref="char:EOLhyphen"/>ing; eſpecially in the Two great Points of Perjury and Common Swearing; Octavo.</p>
+            <p>The Principles of the Chriſtian Religion Explain'd in a brief Commentary upon the Ch. Catechiſm. Oct.</p>
+            <p>Theſe <hi>Five</hi> by Dr. <hi>Wake.</hi>
+            </p>
+            <p>
+               <hi>Epictetus</hi>'s Morals with <hi>Simplicius</hi>'s Comment, made <hi>Engliſh</hi> from the <hi>Greek;</hi> with the Addition of his Life, from the <hi>French</hi> of Monſieur <hi>Boileau.</hi> by <hi>G. Stanhope</hi> D. D. In Octavo.</p>
+            <p>An Anſwer to all the Excuſes and Pretences which Men ordinarily make for their not coming to the Holy Communion. Fitted for the Meaneſt Capacities, and very proper to be given away by ſuch as are Chari<g ref="char:EOLhyphen"/>tably Inclined. Price three Pence. By a <hi>Divine</hi> of the Church of <hi>England.</hi> The <hi>Fourth Edition</hi> Corrected.</p>
+            <p>
+               <hi>Parſons</hi> his Chriſtian Directory, being a Treatiſe of Holy Reſolution. In two Parts. Put into Mo<g ref="char:EOLhyphen"/>dern <hi>Engliſh;</hi> And now made Publick, for the In<g ref="char:EOLhyphen"/>ſtruction of the Ignorant; the Conviction of the Un<g ref="char:EOLhyphen"/>believing; the Awakning and Reclaiming the Vicious, and for, Confirming the Religions in their Good Pur<g ref="char:EOLhyphen"/>poſes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:62746:17"/>
+            <head>Books Printed for <hi>Richard Sare</hi> at <hi>Grays-Inn Gate</hi> in <hi>Holborne.</hi>
+            </head>
+            <p>FAbles of <hi>Aeſop</hi> and other Eminent Mythologiſts, with Morals and Reflections, Folio. The Third Edition.</p>
+            <p>Fables and Stories Moralized, being a Second part of the Fables of <hi>Aeſop,</hi> and other Eminent My<g ref="char:EOLhyphen"/>thologiſts <hi>&amp;c.</hi> Folio.</p>
+            <p>The Viſions of <hi>Dom Franciſco de Quevedo Villegas</hi> Kt. of the Order of St. <hi>James:</hi> The Eighth Edition Octavo.</p>
+            <p>Twenty Two Select Coloquies out of <hi>Eraſmus Ro<g ref="char:EOLhyphen"/>terodamus;</hi> pleaſantly Repreſenting ſeveral Superſtiti<g ref="char:EOLhyphen"/>ous <hi>Levities,</hi> that were crept into the <hi>Church of Rome,</hi> in his Days. The Third Edition, Octavo. Theſe Four by Sir <hi>Roger L'Eſtrange.</hi>
+            </p>
+            <p>The Genuine Epiſtles of the Apoſtolical Fathers? St. <hi>Barnabas,</hi> St <hi>Ignatius,</hi> St. <hi>Clement,</hi> St. <hi>Polycarp,</hi> the Shepherd of <hi>Hermas,</hi> and the Martyrdoms of St. <hi>Ig<g ref="char:EOLhyphen"/>natius,</hi> and St. <hi>Polycarp;</hi> Tranſlated and Publiſh'd with a large Preliminary Diſcourſe. relating to the ſeveral Diſcourſes here put together. Octavo.</p>
+            <p>The Authority of Chriſtian Princes over their Eccle<g ref="char:EOLhyphen"/>ſiaſtical Synods Aſſerted; with Particular Reſpect to the Convocations of the Clergy of the Realm, and Church of <hi>England:</hi> Occaſioned by a late Pamphlet, Intituled, <hi>A Letter to a Convocation Man,</hi> Octavo.</p>
+            <pb facs="tcp:62746:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
